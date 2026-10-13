@@ -1,6 +1,8 @@
 MLOps Pipeline for Distributed Model Training with Kubeflow
 ---
 
+<img width="1032" height="502" alt="image" src="https://github.com/user-attachments/assets/2215b1a4-d054-49c2-a13e-1321976c1691" />
+
 #### Description
 
 An MLOps pipeline leveraging the cloud-native Kubeflow project for model training and registration with MLflow. GitOps practices are implemented using ArgoCD to deploy a custom Kubeflow Helm chart to a Kubernetes cluster on DigitalOcean.
